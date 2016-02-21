@@ -6,7 +6,7 @@ Output will be shown on the console and be written to a specified output file
 
 A [complex number](https://en.wikipedia.org/wiki/Complex_number) appears in the format...
 
-[real number][+ or -][imaginary number]
+**[real number][+ or -][imaginary number]**
 
 ...and there should only be one complex number per line.
 
