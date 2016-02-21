@@ -51,5 +51,9 @@ so try to stay away from that side.
 2. Have your desired txt files in the same location as the ComplexNumberCalculator.exe
 3. Run the ComplexNumberCalculator.exe
 
+##Current Task
+Create a menu to allow console **add / delete / list** and save functions.  
 
+The list and save function needs to print out the numbers in ascending order based on its value. The value of a complex number a+bi is sqrt(a*a+b*b).
 
+Save function stores the results to an output file.
