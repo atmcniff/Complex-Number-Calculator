@@ -14,8 +14,8 @@ This program isn't too picky with how complex numbers are respresented, but as l
 kind of resemblence to a complex number in the input file, everything should be fine. Small errors or weird looking 
 complex numbers in the input file will be dealt with, but to know the extent to which errors can be made, remember this...
 
-1. Either a real number is first or an "i" is last
-2. NO SPACES 
+**1. Either a real number is first or an "i" is last**
+**2. NO SPACES**
 
 ...and once all complex numbers are read, it will printed out in the cleanest, most beautiful form possible.
 
