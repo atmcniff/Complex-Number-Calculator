@@ -1,6 +1,9 @@
 # Complex-Number-Calculator
 Read complex numbers from txt files and calculate them!
 
+Output will be shown on the console and be written to a specified output file 
+**or to a new file if the output file specified doesn't exist**.
+
 A [complex number](https://en.wikipedia.org/wiki/Complex_number) appears in the format...
 
 [real number][+ or -][imaginary number]
@@ -35,6 +38,12 @@ This should give you an idea the possibilities
 
 The deal with most of the numbers under the "Impossible" side have to do with not getting the result you expect, 
 so try to stay away from that side.
+
+##Demo
+1. Run the ComplexNumberCalculator.exe
+2. Enter either "testinput.txt", "easy.txt", "medium.txt", "hard.txt" as the input file
+3. enter "output.txt" as the output file.
+4. Enter "1" to calculate
 
 ##Usage and Installation
 
