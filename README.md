@@ -51,7 +51,7 @@ so try to stay away from that side.
 2. Have your desired txt files in the same location as the ComplexNumberCalculator.exe
 3. Run the ComplexNumberCalculator.exe
 
-##Current Task
+##Tasks
 - [x] Read in complex numbers into a dynamic array
 - [x] Add complex number to list
 - [x] Delete complex number from list
