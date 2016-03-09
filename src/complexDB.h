@@ -2,7 +2,7 @@
  * complexDB.h
  *
  *  Created on: Feb 27, 2016
- *      Author: AustinMcnipps
+ *      Author: Austin McNiff
  */
 
 #ifndef COMPLEXDB_H_
